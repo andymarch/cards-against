@@ -134,3 +134,50 @@
 - Exploiting MySpace at a 2004 hack-a-thon event.
 - Port scanning using echolocation.
 - The surgeon general saying "Always use password protection".
+
+## Cards Against IT (Varonis) ##
+- Rotating the backup tapes
+- a PEBCAK
+- rm -rf /*.*
+- a faulty crossover cable
+- a KVM with a broken M
+- a one button mouse
+- a laser pointer
+- scanning a little too much with nmap
+- a coffee stained mousepad
+- a webcam pointed at the coffee maker
+- a bastion host
+- a salvaged motherboard with a parallel port
+- a razor sharp punchdown tool
+- my rooted phone
+- a mouse connected serial -> ps/2 -> USB
+- 0118 999 881 999 119 725...3
+- my password
+- a fingerprint scanner
+- a scanning electron microscope
+- a helpdesk ticket to "fix the cpu"
+- a hard drive degaussing machine
+- a multitool with a bottle opener
+- a larger database connection pool
+- a rainbow pack of 3.5" floppy disks
+- a usb stick found in the parking lot
+- an Arduino running NetBSD
+- a shell script written in OCaml
+- Edward Snowden
+- CryptoLocker
+- Stuxnet
+- a serial port mouse
+- 5000 free AOL CDs
+- Angelina Jolie in Hackers
+- an RJ-45 crimping tool
+- Clippy
+- two factor auth
+- have you tried turning it off and on again
+- a flaky VPN connection
+- script kiddies
+- an IP webcam with a default password
+- rebuilding a RAID array
+- manually fixing 100/100 auto negotiation
+- viewing web filter block logs
+- the server is down
+- pinging 127.0.0.1 
